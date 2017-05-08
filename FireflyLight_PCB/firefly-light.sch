@@ -10343,11 +10343,11 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <part name="IC1" library="atmel" deviceset="TINY22" device="P" value="TINY85"/>
 <part name="JP3" library="pinhead" deviceset="PINHD-1X6" device="" value="LED Strings"/>
 <part name="PUSH" library="shyd" deviceset="PUSHBT" device="_SMD"/>
-<part name="C2" library="rcl" deviceset="C-EU" device="C0805"/>
+<part name="C2" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
 <part name="JP1" library="pinhead" deviceset="PINHD-1X2" device="" value="Power"/>
 <part name="JP2" library="pinhead" deviceset="PINHD-1X2" device="" value="Jumper"/>
-<part name="C3" library="rcl" deviceset="C-EU" device="C0805"/>
-<part name="C1" library="rcl" deviceset="CPOL-EU" device="140CLH-0810"/>
+<part name="C3" library="rcl" deviceset="C-EU" device="C0805" value="100n"/>
+<part name="C1" library="rcl" deviceset="CPOL-EU" device="140CLH-0810" value="330u"/>
 </parts>
 <sheets>
 <sheet>
