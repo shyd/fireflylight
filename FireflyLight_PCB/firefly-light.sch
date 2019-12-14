@@ -17687,7 +17687,7 @@ Two variants - one "with legs" (for hads-free fit on PCB) and another "without l
 </class>
 </classes>
 <parts>
-<part name="IC1" library="atmel" library_urn="urn:adsk.eagle:library:105" deviceset="TINY22" device="P" package3d_urn="urn:adsk.eagle:package:4324/1" value="TINY85"/>
+<part name="IC1" library="atmel" library_urn="urn:adsk.eagle:library:105" deviceset="TINY22" device="S" package3d_urn="urn:adsk.eagle:package:4326/1" value="TINY85"/>
 <part name="JP3" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X6" device="" package3d_urn="urn:adsk.eagle:package:22472/2" value="LED Strings"/>
 <part name="NEXT" library="shyd" deviceset="PUSHBT" device="_SMD"/>
 <part name="C2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C0805" package3d_urn="urn:adsk.eagle:package:23617/2" value="100n"/>
